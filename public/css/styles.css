@@ -4,7 +4,7 @@ body{
 
 .header-container{
 	vertical-align: middle;
-	background: url(/img/headerbg.png);
+	background: url(../img/headerbg.png);
 	position: fixed;
     z-index: 9999;
     margin: auto;
@@ -13,7 +13,7 @@ body{
 
 .footer-container{
 	vertical-align: middle;
-	background: url(/img/headerbg.png);
+	background: url(../img/headerbg.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
