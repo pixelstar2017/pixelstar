@@ -7,7 +7,7 @@
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<a class="navbar-brand" href="#">
-					<img src="http://pixelstar.edu.ph/public/img/headerbg.png" class="logo"/>
+					<img src="{{URL::asset('img/logo.png')}}" class="logo"/>
 				</a>
 
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
